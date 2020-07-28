@@ -1,5 +1,7 @@
 # Profile
-[(주)Vitcon](http://vitcon.co.kr/default/)에 재직중인 소프트웨어 엔지니어입니다.
+배워서 남주는(?) 소프트웨어 엔지니어 입니다.
+
+현재 [(주)Vitcon](http://vitcon.co.kr/default/)에 재직중입니다.
 
 
 ## Vitcon (2014.08 ~ 재직중)
