@@ -1,5 +1,5 @@
 # Profile
-[(주)Vitcon](http://vitcon.co.kr/default/)에서 2014.08부터 일한 소프트웨어 엔지니어입니다.
+[(주)Vitcon](http://vitcon.co.kr/default/)에 재직중인 소프트웨어 엔지니어입니다.
 
 ## Vitcon (2014.08 ~ 재직중)
  + **주 업무**: 자사 제품(Arduino, ESP32기반)의 펌웨어 개발, 자사 솔루션 기획.
