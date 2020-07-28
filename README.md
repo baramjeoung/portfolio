@@ -15,7 +15,7 @@ Vitcon의 클라우드 서비스 기획 및 제품 펌웨어 개발.
 ### [ModlinkStudio](./ModlinkStudio)
 래더 언어를 사용하여 Vitcon의 Modlink제품에 펌웨어를 올릴 수 있는 개발 툴.
 
-## 핵심역량
+# 핵심역량
  + Arduino, ESP32 기반 펌웨어 개발 능숙
  + Oscilloscope 사용에 익숙하며 전기 신호를 보고 회로상의 문제점을 판단할 수 있음.
  + 산업 현장에서 자주 사용되는 RS232, RS485등 Serial 통신 방식의 전기적인 특징을 이해하고 있음.
