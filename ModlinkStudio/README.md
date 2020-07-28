@@ -12,3 +12,6 @@ ModlinkStudio는 래더 언어를 사용하여 Modlink에 펌웨어를 올릴 �
 + Visual Studio 2017
 + .Net Framework 4.5
 + C# WinForm
+
+## 상세 정보
++ [Vitconshop 자료실](https://vitconshop.com/board/?id=modlinkstudio)
