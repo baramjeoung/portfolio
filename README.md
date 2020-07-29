@@ -5,11 +5,20 @@
 
 
 ## Vitcon (2014.08 ~ 재직중)
- + **주 업무**: 자사 제품의 펌웨어 개발, 자사 솔루션 기획 및 개발.
+ + **주 업무**: 자사 제품의 펌웨어 개발(주로 Arduino Mega와 ESP32), 자사 솔루션 기획 및 개발.
  + **기타 업무**: SI 요구사항 분석 및 개발. 국책사업 연구개발.
 
 ### [Vitcon IoT Service](https://iot.vitcon.co.kr/login/)
 Vitcon의 무료 IoT 서비스 개발
+
+자사 제품인 Modlink와 자체 펌웨어가 들어간 ESP8266을 사용한 하드웨어를 사용해서 간단하게 모니터링/제어를 구현할 수 있는 서비스 이다.
+
++ 관련 Repository
+  + [VitconCommon](https://github.com/vitcon-iot/VitconCommon)
+  + [VitconIoT](https://github.com/vitcon-iot/VitconIOT)
+  + [VitconLink](https://github.com/vitcon-iot/VitconLink)
+  + [VitconMQTT](https://github.com/vitcon-iot/VitconMQTT)
+
 
 ### [V-OLA](./V-OLA)
 Vitcon의 클라우드 서비스 기획 및 제품 펌웨어 개발.
