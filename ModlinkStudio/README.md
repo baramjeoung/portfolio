@@ -3,6 +3,8 @@
 
 ModlinkStudio는 래더 언어를 사용하여 Modlink에 펌웨어를 올릴 수 있는 개발 툴이다.
 
+C언어를 모르는 PLC엔지니어가 Arduino계열 제품을 래더언어로 사용할 수 있도록 하기 위해 개발 하였다.
+
 ## 특징
 + PLC사용자에게 친숙하도록 에디터에서 Ardunio C코드를 배제하고 래더 언어를 사용.
 + Vitcon IoT 서비스나 VDOS에 연동이 가능하도록 UI를 지원.
